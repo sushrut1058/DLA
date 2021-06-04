@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1621927054 source:c:\users\hp\desktop\new folder\dla\main.cpp
+	"ext.h"
+	<bits/stdc++.h>
+	<cmath>
+	<ctime>
+	<random>
+	<chrono>
+	<fstream>
+
+1621843991 c:\users\hp\desktop\new folder\dla\ext.h
+	<vector>
+
+1621852242 source:c:\users\hp\desktop\new folder\dla\funcs.cpp
+	<bits/stdc++.h>
+	<cmath>
+	<ctime>
+
+1621852242 source:c:\users\hp\desktop\dla\dla_mod\funcs.cpp
+	<bits/stdc++.h>
+	<cmath>
+	<ctime>
+
